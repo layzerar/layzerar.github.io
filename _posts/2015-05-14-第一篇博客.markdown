@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "博文00001"
+date:   2015-05-14 23:38:00
+categories: Uncategorized
+---
+
+排版：
+
++ 主页
++ 博客
+  + Post1
+  + Post2
+
+代码高亮：
+
+{% highlight python %}
+print "hello world!"
+{% endhighlight %}
